@@ -5,32 +5,32 @@ Purpose: To learn the process of installing and starting up Ubuntu Linux, settin
 1. First of all need to install VirtualBox for Ubuntu Server -  https://www.virtualbox.org/wiki/Downloads
 2. Download Ubuntu Server iso image - https://ubuntu.com/download/server
 3. After installation VirtualBox open it and click New button.
-![](1.png)
+![](readme_imgs/1.png)
 4. On the pop up window name your virtual machine and provide path to your ISO Image.
-![](2.png)
+![](readme_imgs/2.png)
 5. Then proced to "Set up unattended guest OS installation". Here you need to enter your future user name and password for you system.
-![](3.png)
+![](readme_imgs/3.png)
 6. In "Specify virtual hardware" you can configurate how much resources you can allocate for you virtual machine (I recommend to bump up to 2 cpu cores).
-![](4.png)
+![](readme_imgs/4.png)
 7. In final menu "Specify virtual hard disk" you can select size of memory for your server. 25 gb is enough for me so I click finish button.
-![](5.png)
+![](readme_imgs/5.png)
 8. Now you have virtual machine, click on it and press start.
-![](6.png)
+![](readme_imgs/6.png)
 9. In this language options pick English.
-![](7.png)
+![](readme_imgs/7.png)
 10. In future steps I did'nt change anything so I selected "Done" and hit enter.
-![](8.png)
-![](9.png)
-![](10.png)
-![](11.png)
-![](12.png)
-![](13.png)
-![](14.png)
+![](readme_imgs/8.png)
+![](readme_imgs/9.png)
+![](readme_imgs/10.png)
+![](readme_imgs/11.png)
+![](readme_imgs/12.png)
+![](readme_imgs/13.png)
+![](readme_imgs/14.png)
 11. Type in your name, pick a name for your server, username and password.
-![](15.png)
+![](readme_imgs/15.png)
 12. In last few steps I skiped all settings. After this steps installation begins.
-![](16.png)
-![](17.png)
+![](readme_imgs/16.png)
+![](readme_imgs/17.png)
 13. After you reboot you virtual machine you have installed your Ubuntu server.
 
 ## Setting up Ubuntu Server
