@@ -94,9 +94,9 @@ time ./mainO2 < input.txt
 time ./mainO3 < input.txt
 ```
 O2 perfomance:
-![](18.png)
+![](readme_imgs/18.png)
 O3 perfomance:
-![](19.png)
+![](readme_imgs/19.png)
 
 'user' shows pure time that the processor was running. As we can see, compiling the program with O3 optimization makes program run faster.
 ### Setup & Usage Instruction
