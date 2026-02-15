@@ -1,4 +1,4 @@
-# Pr1
+# Pr1 (Variant 1)
 Purpose: To learn the process of installing and starting up Ubuntu Linux, setting up basic environment for programing in C/C++ languages.
 
 ## Installation Ubuntu Server
@@ -123,3 +123,4 @@ make main
 
 ./main
 ```
+
