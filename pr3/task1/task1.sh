@@ -1,0 +1,14 @@
+ulimit -n
+ulimit -aS | grep "open files"
+ulimit -aH | grep "open files"
+ulimit -n 3000
+ulimit -aS | grep "open files"
+ulimit -aH | grep "open files"
+echo "line 8: ulimit -n 3001"
+ulimit -n 3001
+ulimit -n 2000
+ulimit -n
+ulimit -aS | grep "open files"
+ulimit -aH | grep "open files"
+echo "line 14: ulimit -n 3000"
+ulimit -n 3000
